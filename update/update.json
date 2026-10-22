@@ -1,21 +1,21 @@
 {
- "v": 2,
- "ts": 1792683757,
+ "v": 4,
+ "ts": 1792698160,
  "mandatory": false,
- "note": "首个测试包",
+ "note": "免root装机：内置 assets 自动铺热更 dll；邮件推送/兑换码/更新通道；562MB",
  "apk": {
   "code": 33,
   "name": "0.28.1",
-  "size": 654138021,
-  "sha256": "41a66e858066fbbe9ceb217656197423846b871c6699c73581d9e65811e836c8",
-  "file": "v17net.apk",
-  "tag": "v3",
+  "size": 589735333,
+  "sha256": "f3b07d35fd41ad911bd4c6ef9fc970e6bf00afd188d1943c05f8ce687f519441",
+  "file": "offline-v5.apk",
+  "tag": "v5",
   "mirrors": [
-   "https://gh-proxy.com/https://github.com/IvanXxxxyyuffff/bhcy-release/releases/download/v3/v17net.apk",
-   "https://gh.llkk.cc/https://github.com/IvanXxxxyyuffff/bhcy-release/releases/download/v3/v17net.apk",
-   "https://ghfast.top/https://github.com/IvanXxxxyyuffff/bhcy-release/releases/download/v3/v17net.apk",
-   "https://github.com/IvanXxxxyyuffff/bhcy-release/releases/download/v3/v17net.apk"
+   "https://gh-proxy.com/https://github.com/IvanXxxxyyuffff/bhcy-release/releases/download/v5/offline-v5.apk",
+   "https://gh.llkk.cc/https://github.com/IvanXxxxyyuffff/bhcy-release/releases/download/v5/offline-v5.apk",
+   "https://ghfast.top/https://github.com/IvanXxxxyyuffff/bhcy-release/releases/download/v5/offline-v5.apk",
+   "https://github.com/IvanXxxxyyuffff/bhcy-release/releases/download/v5/offline-v5.apk"
   ]
  },
- "sig": "D4zB5JDFJE82H/TpMtF3pHG9hsCaDfohnCNdzn+itC8="
+ "sig": "bFX9NaQRIxWaV/nSx1RjOdXhbsjucSShjCFH4c3GzV4="
 }
