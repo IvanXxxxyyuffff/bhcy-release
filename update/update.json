@@ -1,0 +1,21 @@
+{
+ "v": 2,
+ "ts": 1792683757,
+ "mandatory": false,
+ "note": "首个测试包",
+ "apk": {
+  "code": 33,
+  "name": "0.28.1",
+  "size": 654138021,
+  "sha256": "41a66e858066fbbe9ceb217656197423846b871c6699c73581d9e65811e836c8",
+  "file": "v17net.apk",
+  "tag": "v3",
+  "mirrors": [
+   "https://gh-proxy.com/https://github.com/IvanXxxxyyuffff/bhcy-release/releases/download/v3/v17net.apk",
+   "https://gh.llkk.cc/https://github.com/IvanXxxxyyuffff/bhcy-release/releases/download/v3/v17net.apk",
+   "https://ghfast.top/https://github.com/IvanXxxxyyuffff/bhcy-release/releases/download/v3/v17net.apk",
+   "https://github.com/IvanXxxxyyuffff/bhcy-release/releases/download/v3/v17net.apk"
+  ]
+ },
+ "sig": "D4zB5JDFJE82H/TpMtF3pHG9hsCaDfohnCNdzn+itC8="
+}
